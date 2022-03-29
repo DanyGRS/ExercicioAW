@@ -2,4 +2,6 @@
 
 ## Funcionalidades
 
-## 
+## Tecnologias
+
+## Como Usar
